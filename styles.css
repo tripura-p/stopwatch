@@ -1,0 +1,63 @@
+.container {
+  /* text-align: center; */
+  margin-top: 50px;
+}
+
+.stopwatch {
+  margin-bottom: 20px;
+}
+
+#display {
+  font-size: 140px;
+  margin-top: 10%;
+  margin-left: 12%;
+}
+
+button {
+  margin: 10px 10px;
+  padding: 30px 50px;
+  font-size: 130%;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 20px;
+
+  
+}
+
+/* get-started-button {
+  display: inline-block;
+  padding: 10px 20px;
+  
+  text-decoration: none;
+  
+  transition: background-color 0.3s ease-in-out;
+  margin-left: 700px;
+  margin-top: 40PX;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  font-size: larger;
+} */
+
+
+#startStop{
+  margin-left: 12%;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+body {
+  background: rgba(0, 0, 0, 0.4) url("clock-pocket.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+
+}
